@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://cikasfm.github.io/csb-32c2t8/static/css/main.a324f770.chunk.css",
+    "main.js": "https://cikasfm.github.io/csb-32c2t8/static/js/main.91058b25.chunk.js",
+    "main.js.map": "https://cikasfm.github.io/csb-32c2t8/static/js/main.91058b25.chunk.js.map",
+    "runtime-main.js": "https://cikasfm.github.io/csb-32c2t8/static/js/runtime-main.7e14c087.js",
+    "runtime-main.js.map": "https://cikasfm.github.io/csb-32c2t8/static/js/runtime-main.7e14c087.js.map",
+    "static/js/2.49b8a582.chunk.js": "https://cikasfm.github.io/csb-32c2t8/static/js/2.49b8a582.chunk.js",
+    "static/js/2.49b8a582.chunk.js.map": "https://cikasfm.github.io/csb-32c2t8/static/js/2.49b8a582.chunk.js.map",
+    "index.html": "https://cikasfm.github.io/csb-32c2t8/index.html",
+    "static/css/main.a324f770.chunk.css.map": "https://cikasfm.github.io/csb-32c2t8/static/css/main.a324f770.chunk.css.map",
+    "static/js/2.49b8a582.chunk.js.LICENSE.txt": "https://cikasfm.github.io/csb-32c2t8/static/js/2.49b8a582.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7e14c087.js",
+    "static/js/2.49b8a582.chunk.js",
+    "static/css/main.a324f770.chunk.css",
+    "static/js/main.91058b25.chunk.js"
+  ]
+}
